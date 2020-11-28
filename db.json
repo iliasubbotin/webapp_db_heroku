@@ -138,5 +138,37 @@
       ],
       "rating": 55
     }
+  ],
+  "reports": [
+    {
+      "reportDate": null,
+      "bookRequest": "тут должна быть очень приочень большая рецензия, но....",
+      "speakerId": 1,
+      "bookId": 2,
+      "id": 1
+    },
+    {
+      "reportDate": "2020-11-27T19:00:00.000Z",
+      "bookRequest": "тут простота тестируем что можно сделать с рецензией",
+      "speakerId": 6,
+      "bookId": 1,
+      "id": 3
+    },
+    {
+      "reportDate": "2020-11-29T19:00:00.000Z",
+      "bookRequest": "qwwewewewe",
+      "speakerId": 6,
+      "bookId": 1,
+      "id": 4
+    },
+    {
+      "reportDate": "2020-11-27T19:00:00.000Z",
+      "bookRequest": "тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест ",
+      "speakerId": 3,
+      "bookId": 6,
+      "id": 5
+    }
+  ],
+  "meetings":[
   ]
 }
