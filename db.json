@@ -39,7 +39,7 @@
     {
       "id": 7,
       "firstName": "Антон",
-      "lastName": "Игнатов",
+      "lastName": "ИгнатовFF",
       "secName": "Петрович"
     }
   ],
@@ -141,34 +141,54 @@
   ],
   "reports": [
     {
-      "reportDate": null,
-      "bookRequest": "тут должна быть очень приочень большая рецензия, но....",
-      "speakerId": 1,
-      "bookId": 2,
-      "id": 1
-    },
-    {
-      "reportDate": "2020-11-27T19:00:00.000Z",
-      "bookRequest": "тут простота тестируем что можно сделать с рецензией",
-      "speakerId": 6,
-      "bookId": 1,
-      "id": 3
-    },
-    {
-      "reportDate": "2020-11-29T19:00:00.000Z",
-      "bookRequest": "qwwewewewe",
-      "speakerId": 6,
-      "bookId": 1,
-      "id": 4
-    },
-    {
       "reportDate": "2020-11-27T19:00:00.000Z",
       "bookRequest": "тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест ",
       "speakerId": 3,
       "bookId": 6,
+      "meetingId": 1,
       "id": 5
+    },
+    {
+      "reportDate": "2020-11-27T19:00:00.000Z",
+      "bookRequest": "тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест ",
+      "speakerId": 4,
+      "bookId": 1,
+      "meetingId": 1,
+      "id": 6
+    },
+    {
+      "reportDate": "2020-11-29T19:00:00.000Z",
+      "bookRequest": "1",
+      "speakerId": 7,
+      "bookId": 3,
+      "id": 7,
+      "meetingId": 0
+    },
+    {
+      "reportDate": "2020-11-29T19:00:00.000Z",
+      "bookRequest": "2",
+      "speakerId": 4,
+      "bookId": 4,
+      "id": 8,
+      "meetingId": 0
+    },
+    {
+      "reportDate": "2020-11-29T19:00:00.000Z",
+      "bookRequest": "1",
+      "meetingId": 0,
+      "speakerId": 7,
+      "bookId": 5,
+      "id": 9
     }
   ],
-  "meetings":[
+  "meetings": [
+    {
+      "id": 0,
+      "meetingDate": "2020-11-27T19:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "meetingDate": "2020-11-27T19:00:00.000Z"
+    }
   ]
 }
